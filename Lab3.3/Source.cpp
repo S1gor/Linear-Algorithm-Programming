@@ -1,7 +1,5 @@
-#include <math.h>
-#include <stdio.h>
-#include <stdlib.h>
 #include<iostream>
+
 int main()
 {
 	system("chcp 1251");   //русский язык
